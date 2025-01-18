@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@3-/ireq": "^0.1.10",
+    "@3-/protoscript": "^0.0.31"
+  }
+}
